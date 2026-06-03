@@ -1,4 +1,12 @@
-### Hi there 👋
+# Olá, sou o Vitor!
+
+Estudo Ciência da Computação na UFRJ e tenho interesse em desenvolvimento Full Stack e Mobile
+
+Nos meus repositórios você encontrará projetos pessoais e unervisitáios nos quais já trabalhei
+
+## Tecnologias
+
+Flutter • React • Node • PostgreSQL • MySQL • Python • Git
 
 <!--
 **Vitornunees38/Vitornunees38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
