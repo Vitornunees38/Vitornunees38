@@ -1,8 +1,6 @@
 # Olá, sou o Vitor!
 
-Estudo Ciência da Computação na UFRJ e tenho interesse em desenvolvimento Full Stack com foco em aplicações web e mobile
-
-Nos meus repositórios você encontrará projetos pessoais e unervisitários nos quais já trabalhei
+Estudo Ciência da Computação na UFRJ, nos meus repositórios você encontrará projetos pessoais e unervisitários nos quais já trabalhei!
 
 ## Tecnologias
 
