@@ -1,6 +1,6 @@
 # Olá, sou o Vitor!
 
-Estudo Ciência da Computação na UFRJ, nos meus repositórios você encontrará projetos pessoais e unervisitários nos quais já trabalhei!
+Estudo Ciência da Computação na UFRJ, nos meus repositórios você encontrará projetos pessoais e universitários nos quais já trabalhei!
 
 ## Tecnologias
 
